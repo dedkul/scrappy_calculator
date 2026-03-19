@@ -1,4 +1,4 @@
-# scrappy_calculator — iOS App
+# Scrappy Calculator — iOS App
 
 A playful, scrapbook-themed calculator app I built as a **vibe coding** experiment — using mostly AI tools from idea → design → shipped UI.
 
