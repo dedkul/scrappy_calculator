@@ -4,7 +4,7 @@ A playful, scrapbook-themed calculator app I built as a **vibe coding** experime
 
 ---
 
-![scrappy_calculator demo](scrappy_calculator/Instructions/scrappy_calculator.gif)
+![scrappy_cal_720p](https://github.com/user-attachments/assets/0e9736ef-8b7f-4158-8eb0-f1955f3143f7)
 
 ## The VibeCoding Process (Designer-first)
 
