@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		543CA3102F6711ED00824D30 /* fantasy_calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fantasy_calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		543CA3102F6711ED00824D30 /* scrappy_calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scrappy_calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		543CA3122F6711ED00824D30 /* fantasy_calculator */ = {
+		543CA3122F6711ED00824D30 /* scrappy_calculator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = fantasy_calculator;
+			path = scrappy_calculator;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		543CA3072F6711ED00824D30 = {
 			isa = PBXGroup;
 			children = (
-				543CA3122F6711ED00824D30 /* fantasy_calculator */,
+				543CA3122F6711ED00824D30 /* scrappy_calculator */,
 				543CA3112F6711ED00824D30 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		543CA3112F6711ED00824D30 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				543CA3102F6711ED00824D30 /* fantasy_calculator.app */,
+				543CA3102F6711ED00824D30 /* scrappy_calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		543CA30F2F6711ED00824D30 /* fantasy_calculator */ = {
+		543CA30F2F6711ED00824D30 /* scrappy_calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 543CA31B2F6711EE00824D30 /* Build configuration list for PBXNativeTarget "fantasy_calculator" */;
+			buildConfigurationList = 543CA31B2F6711EE00824D30 /* Build configuration list for PBXNativeTarget "scrappy_calculator" */;
 			buildPhases = (
 				543CA30C2F6711ED00824D30 /* Sources */,
 				543CA30D2F6711ED00824D30 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				543CA3122F6711ED00824D30 /* fantasy_calculator */,
+				543CA3122F6711ED00824D30 /* scrappy_calculator */,
 			);
-			name = fantasy_calculator;
+			name = scrappy_calculator;
 			packageProductDependencies = (
 			);
 			productName = fantasy_calculator;
-			productReference = 543CA3102F6711ED00824D30 /* fantasy_calculator.app */;
+			productReference = 543CA3102F6711ED00824D30 /* scrappy_calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 543CA30B2F6711ED00824D30 /* Build configuration list for PBXProject "fantasy_calculator" */;
+			buildConfigurationList = 543CA30B2F6711ED00824D30 /* Build configuration list for PBXProject "scrappy_calculator" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				543CA30F2F6711ED00824D30 /* fantasy_calculator */,
+				543CA30F2F6711ED00824D30 /* scrappy_calculator */,
 			);
 		};
 /* End PBXProject section */
@@ -309,7 +309,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		543CA30B2F6711ED00824D30 /* Build configuration list for PBXProject "fantasy_calculator" */ = {
+		543CA30B2F6711ED00824D30 /* Build configuration list for PBXProject "scrappy_calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				543CA3192F6711EE00824D30 /* Debug */,
@@ -318,7 +318,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		543CA31B2F6711EE00824D30 /* Build configuration list for PBXNativeTarget "fantasy_calculator" */ = {
+		543CA31B2F6711EE00824D30 /* Build configuration list for PBXNativeTarget "scrappy_calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				543CA31C2F6711EE00824D30 /* Debug */,

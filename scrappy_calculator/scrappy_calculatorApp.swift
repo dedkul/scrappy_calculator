@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct fantasy_calculatorApp: App {
+struct scrappy_calculatorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
